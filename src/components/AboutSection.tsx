@@ -56,9 +56,11 @@ const AboutSection = () => {
               masalah pinjaman online yang sedang Anda hadapi.
             </p>
             <div className="flex items-center gap-4">
-              <div className="w-16 h-16 rounded-full gradient-gold flex items-center justify-center">
-                <span className="text-brown-dark font-display font-bold text-xl">R&P</span>
-              </div>
+              <img 
+                src="/logo.png" 
+                alt="Raden & Partner" 
+                className="h-16 w-auto object-contain"
+              />
               <div>
                 <div className="font-display font-semibold text-brown-dark text-lg">Raden & Partner</div>
                 <div className="text-gold text-sm">Konsultan Pinjaman Online Terpercaya</div>
