@@ -74,7 +74,8 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 text-gold mt-0.5" />
                 <span className="text-cream/60 text-sm">
-                  Jakarta, Indonesia
+                  Home Raden<br />
+                  Kp, Gg. Keramat Jl. Perintis No.004, RT.001, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310
                 </span>
               </li>
             </ul>
