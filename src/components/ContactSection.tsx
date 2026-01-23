@@ -112,7 +112,7 @@ const ContactSection = () => {
             <div className="rounded-xl overflow-hidden h-64 bg-brown/50 flex items-center justify-center border border-gold/10">
               <div className="text-center">
                 <MapPin className="w-12 h-12 text-gold mx-auto mb-3" />
-                <p className="text-cream/60">Jakarta, Indonesia</p>
+                <p className="text-cream/60">Home Raden<br />Kp, Gg. Keramat Jl. Perintis No.004, RT.001, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310</p>
               </div>
             </div>
           </motion.div>
