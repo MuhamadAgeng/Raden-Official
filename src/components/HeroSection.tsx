@@ -49,7 +49,7 @@ const HeroSection = () => {
             className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gold/10 border border-gold/30 mb-8"
           >
             <Shield className="w-4 h-4 text-gold" />
-            <span className="text-gold text-sm font-medium">Solusi dan Konsultasi</span>
+            <span className="text-gold text-sm font-medium">Konsultasi Pinjaman Online</span>
           </motion.div>
 
           {/* Main Title */}

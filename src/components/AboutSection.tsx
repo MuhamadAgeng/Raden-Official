@@ -63,7 +63,7 @@ const AboutSection = () => {
               />
               <div>
                 <div className="font-display font-semibold text-brown-dark text-lg">Raden & Partner</div>
-                <div className="text-gold text-sm">Solusi dan Konsultasi</div>
+                <div className="text-gold text-sm">Konsultasi Pinjaman Online</div>
               </div>
             </div>
           </motion.div>

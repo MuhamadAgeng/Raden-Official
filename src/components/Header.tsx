@@ -49,7 +49,7 @@ const Header = () => {
               <div className="font-display font-bold text-cream text-lg leading-tight">
                 Raden & Partner
               </div>
-              <div className="text-gold text-xs">Konsultan Pinjol</div>
+              <div className="text-gold text-xs">Konsultasi Pinjaman Online</div>
             </div>
           </a>
 

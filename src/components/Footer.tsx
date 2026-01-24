@@ -19,7 +19,7 @@ const Footer = () => {
                 <div className="font-display font-bold text-cream text-xl">
                   Raden & Partner
                 </div>
-                <div className="text-gold text-sm">Konsultan Pinjol</div>
+                <div className="text-gold text-sm">Konsultasi Pinjaman Online</div>
               </div>
             </div>
             <p className="text-cream/60 text-sm leading-relaxed">
