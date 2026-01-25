@@ -49,6 +49,18 @@ const TestimoniSection = () => {
     },
     {
       id: 4,
+      name: "Baby",
+      role: "Ibu Rumah Tangga",
+      company: "Depok",
+      avatar: "user",
+      content: "Terima kasih Raden & Partner! Konsultasi personal sangat detail dan membantu sekali. Masalah pinjaman online yang saya hadapi bisa terselesaikan dengan baik.",
+      rating: 5,
+      date: "1 minggu lalu",
+      chatProof: "/bukti7.jpg",
+      type: "individual"
+    },
+    {
+      id: 5,
       name: "Yunita Bojonegoro",
       role: "Karyawan Swasta",
       company: "Jakarta",
@@ -60,7 +72,7 @@ const TestimoniSection = () => {
       type: "group"
     },
     {
-      id: 5,
+      id: 6,
       name: "Regina Risma",
       role: "Mahasiswa",
       company: "Universitas Indonesia",
@@ -72,7 +84,7 @@ const TestimoniSection = () => {
       type: "group"
     },
     {
-      id: 6,
+      id: 7,
       name: "Delyna Jatim",
       role: "Freelancer",
       company: "Surabaya",
@@ -158,7 +170,7 @@ const TestimoniSection = () => {
               initial={{ opacity: 0, y: 30 }}
               animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ duration: 0.6, delay: index * 0.1 }}
-              className={testimonial.id === 1 ? "relative" : ""}
+              className={testimonial.id === 7 ? "lg:col-start-2" : ""}
             >
               {testimonial.id === 1 && (
                 <div className="absolute -top-3 -right-3 z-10">
