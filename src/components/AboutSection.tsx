@@ -45,19 +45,14 @@ const AboutSection = () => {
               Tentang <span className="text-gold">Raden & Partner</span>
             </h2>
             <p className="text-brown-light mb-6 leading-relaxed">
-              Raden & Partner adalah layanan konsultasi profesional yang berfokus pada 
-              penyelesaian masalah pinjaman online (pinjol). Kami memahami betapa 
-              sulitnya situasi yang dihadapi oleh banyak orang yang terjebak dalam 
-              masalah pinjaman online.
+              Law Office Raden & Partner Legal Consultant adalah kantor hukum spesialis yang berdedikasi penuh untuk memberikan perlindungan hukum, mediasi, dan pendampingan bagi masyarakat yang terjerat permasalahan Pinjaman Online (Pinjol), baik yang berstatus Legal (Berizin OJK) maupun Illegal.
             </p>
             <p className="text-brown-light mb-8 leading-relaxed">
-              Dengan tim yang berpengalaman dan pendekatan yang profesional, kami 
-              berkomitmen untuk membantu Anda menemukan jalan keluar terbaik dari 
-              masalah pinjaman online yang sedang Anda hadapi.
+              Kami memahami bahwa jeratan pinjol bukan sekadar masalah finansial, melainkan juga masalah psikologis dan sosial akibat tingginya bunga yang tidak wajar, penyebaran data pribadi, hingga intimidasi dari Debt Collector (DC). Kami hadir sebagai benteng hukum yang siap berdiri di depan Anda untuk menghentikan segala bentuk kesewenang-wenangan dan mengembalikan ketenangan hidup Anda serta keluarga.
             </p>
             <div className="flex items-center gap-4">
               <img 
-                src="/logo.png" 
+                src="/Logo NewRP.png" 
                 alt="Raden & Partner" 
                 className="h-16 w-auto object-contain"
               />

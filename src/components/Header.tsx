@@ -41,7 +41,7 @@ const Header = () => {
           {/* Logo */}
           <a href="#" className="flex items-center gap-3">
             <img 
-              src="/logo.png" 
+              src="/LogoHead.png" 
               alt="Raden & Partner" 
               className="h-12 w-auto object-contain"
             />

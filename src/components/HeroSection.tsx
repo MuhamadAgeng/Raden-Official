@@ -35,9 +35,9 @@ const HeroSection = () => {
             className="mb-8"
           >
             <img 
-              src="/logo.png" 
+              src="/LogoHead.png" 
               alt="Raden & Partner" 
-              className="h-24 w-auto object-contain mx-auto drop-shadow-lg"
+              className="h-32 w-auto object-contain mx-auto drop-shadow-lg"
             />
           </motion.div>
 
@@ -59,9 +59,9 @@ const HeroSection = () => {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-cream mb-6 leading-tight"
           >
-            Solusi Tepat untuk{" "}
-            <span className="text-gold-gradient">Masalah Pinjaman Online</span>{" "}
-            Anda
+            Solusi Cerdas, Tegas, dan Tuntas{" "}
+            <span className="text-gold-gradient">Menghadapi Permasalahan Pinjaman</span>{" "}
+            Online
           </motion.h1>
 
           {/* Subtitle */}
